@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringBoot3AngularCrudApplication<SpringBoot3AngularCRUD>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "app.abdulkader.SpringBoot3AngularCrudApplication",
+      "projectName": "SpringBoot3AngularCRUD",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
